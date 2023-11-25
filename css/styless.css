@@ -1,0 +1,155 @@
+@charset "utf-8";
+body {
+	margin: 0px;
+	padding: 0px;
+	border: 0px;
+	width:100%;
+}
+html { 
+  background: url(img/bas.jpeg) 
+  no-repeat center top fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+a.font_menu:link {
+	font-family: 'Raleway', sans-serif;
+	font-weight:500;
+	font-size:12px;
+	color:#FFF;
+	}
+a.font_menu:visited {
+	font-family: 'Raleway', sans-serif;
+	font-weight:500;
+	font-size:12px;
+	color:#CCC;	
+}
+a.font_menu:hover {
+	font-family: 'Raleway', sans-serif;
+	font-weight:500;
+	font-size:12px;
+	color:#000;
+	background-color:#FFF;
+	border:7px solid;
+	border-color:#FFF;	
+}
+td.parrafo1 {
+	font-family: 'Raleway', sans-serif;
+	font-weight:600;
+	font-size:44px;
+	color:#FFF;
+	letter-spacing:2px;
+	padding-top:170px;
+}
+td.parrafo2 {
+	font-family: 'Raleway', sans-serif;
+	font-weight:700;
+	font-size:52px;
+	color:#FFF;
+	letter-spacing:1px;
+}
+td.back_text {
+	background-image:url(img/back_text.png);
+	background-position:right top center;
+	background-repeat:no-repeat;
+	font-family: 'Raleway', sans-serif;
+	font-weight:400;
+	font-size:13px;
+	color:#FFF;
+	padding-left:15px;
+	padding-right:35px;
+	padding-top:20px;
+}
+td.textoindex1 {
+	font-family: 'Roboto Slab', sans-serif;
+	font-size:24px;
+	color:#FFF
+}
+td.textoindex2 {
+	font-family: 'Roboto Slab', sans-serif;
+	font-size:60px;
+	color:#FFF;
+	font-weight:600;
+}
+td.contacto_home1 {
+font-family: 'Raleway', sans-serif;
+	font-weight:400;
+	font-size:15px;
+	color:#FFF;
+	padding-bottom:5px;
+}
+td.contacto_home2 {
+font-family: 'Raleway', sans-serif;
+	font-weight:600;
+	font-size:21px;
+	color:#FFF;
+	letter-spacing:2px;
+}
+td.contacto_home3 {
+font-family: 'Raleway', sans-serif;
+	font-weight:400;
+	font-size:13px;
+	color:#FFF;
+	letter-spacing:1px;
+	padding-left:15px;
+	padding-top:15px;
+	background-image:url(img/back_trans.png);
+}
+td.contacto_home4 {
+font-family: 'Raleway', sans-serif;
+	font-weight:700;
+	font-size:15px;
+	color:#FFF;
+	letter-spacing:1px;
+	padding-left:15px;
+	padding-top:15px;
+	background-image:url(img/back_trans.png);
+}
+td.contacto_home5 {
+	font-family:Arial, Helvetica, sans-serif;
+	font-weight:400;
+	font-size:13px;
+	color:#FFF;
+	letter-spacing:1px;
+	padding-left:15px;
+	padding-top:5px;
+	padding-right:20px;
+	background-image:url(img/back_trans.png);
+}	
+td.back_footer {
+	background-image:url(img/capt.JPG);
+	background-position:top center;
+	background-repeat:no-repeat;
+	background-color:#000;
+	padding-top:140px;
+	padding-bottom:140px;
+}	
+td.parrafo_footeer {
+	font-family: 'Raleway', sans-serif;
+	font-weight:600;
+	font-size:25px;
+	color:#FFF;
+	letter-spacing:10px;
+	padding-bottom:50px;
+}
+td.back_text2 {
+	background-image:url(img/back_text2.png);
+	background-position:left top center;
+	background-repeat:no-repeat;
+	padding-left:15px;;
+	padding-top:30px;
+}
+td.quienes_text1 {
+	font-family: 'Raleway', sans-serif;
+	font-weight:400;
+	font-size:14px;
+	color:#FFF;
+	padding-bottom:15px;
+}
+td.quienes_text2 {
+	font-family: 'Raleway', sans-serif;
+	font-weight:400;
+	font-size:31px;
+	color:#006196;
+}
